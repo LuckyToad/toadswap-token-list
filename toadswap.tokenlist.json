@@ -1,0 +1,16 @@
+{
+    "name": "ToadSwap Tokens",
+    "timestamp": "2023-08-02T20:48:00.000Z",
+    "version":{
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": ""
+        }
+    ]
+}
