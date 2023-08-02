@@ -10,7 +10,75 @@
     "tokens": [
         {
             "chainId": 1,
-            "address": ""
-        }
+            "address": "0xbfb2b6870501a6ff17121d676a0a45a38c9eed1e",
+            "name": "Toad",
+            "symbol": "TOAD",
+            "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+			"name": "Alcazar",
+			"symbol": "ALCAZAR",
+			"logoURI": "https://assets.coingecko.com/coins/images/28010/large/Alcazar.jpeg?1666943350",
+			"address": "0x10f44a834097469ac340592d28c479c442e99bfe",
+			"decimals": 18
+		},
+		{
+            "chainId": 1,
+			"name": "HACHI",
+			"symbol": "HACHI",
+			"logoURI": "https://hachitoken.com/logo001.png",
+			"address": "0x2a7e415c169ce3a580c6f374dc26f6aaad1eccfe",
+			"decimals": 18
+		},
+		{
+            "chainId": 1,
+			"name": "ArchAngel",
+			"symbol": "ARCHA",
+			"logoURI": "https://assets.coingecko.com/coins/images/18814/large/Archa_200_x_200_PNG.png",
+			"address": "0x36e43065e977bc72cb86dbd8405fae7057cdc7fd",
+			
+			"decimals": 9
+			
+		},
+		{
+            "chainId": 1,
+			"name": "Guardian Token",
+			"symbol": "GUARDIAN",
+			"logoURI": "https://guardianplatform.io/wp-content/uploads/2022/03/logo-guardian-lg.png",
+			"address": "0x16c525c7cd751c19adf26f39118154d7c4bd0088",
+			"decimals": 18
+		},
+		{
+            "chainId": 1,
+			"name": "Teh Wae",
+			"symbol": "TWAE",
+			"logoURI": "https://i.ibb.co/938f3cP/favicon.png",
+			"address": "0x1519633c3b0e8c801e644bd5e45c55095d150de4",
+			
+			"decimals": 18
+			
+		},
+		{
+            "chainId": 1,
+			"name": "Zim",
+			"symbol": "ZIM",
+			"logoURI": "https://zim.social/images/zimlogo-200.png",
+			"address": "0x9df490b4a5e1699d9A390C65874FD40d86c51AFC",
+			
+			"decimals": 18
+			
+		},
+		{
+            "chainId": 1,
+			"name": "Jigga Token",
+			"symbol": "JIGGA",
+			"logoURI": "https://jiggatoken.com/token_logo.jpg",
+			"address": "0xb0A8E48379131f417fed679e4D1499DE45c64d53",
+			
+			"decimals": 9
+			
+		}
     ]
 }
