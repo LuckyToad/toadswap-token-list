@@ -16,6 +16,14 @@
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
         },
+		{
+			"chainId": 1,
+			"address": "0x8ca5bb317f73fcd8a9f7d122c14b9a1f87688230",
+			"name": "SocialAI",
+			"symbol": "sAI",
+			"logoURI": "https://firebasestorage.googleapis.com/v0/b/socialai-5933f.appspot.com/o/logo_small.png?alt=media&token=4a88541c-f359-4896-8520-0208ce28673b",
+			"decimals": 18
+		},
         {
             "chainId": 1,
 			"name": "Alcazar",
