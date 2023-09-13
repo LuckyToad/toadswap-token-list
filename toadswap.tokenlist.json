@@ -18,10 +18,10 @@
         },
         {
             "chainId": 1,
-			"name": "Alcazar",
-			"symbol": "ALCAZAR",
-			"logoURI": "https://assets.coingecko.com/coins/images/28010/large/Alcazar.jpeg?1666943350",
-			"address": "0x10f44a834097469ac340592d28c479c442e99bfe",
+			"name": "SocialAI",
+			"symbol": "sAI",
+			"logoURI": "https://firebasestorage.googleapis.com/v0/b/socialai-5933f.appspot.com/o/logo_small.png?alt=media&token=4a88541c-f359-4896-8520-0208ce28673b",
+			"address": "0x8ca5bb317f73fcd8a9f7d122c14b9a1f87688230",
 			"decimals": 18
 		},
 		{
