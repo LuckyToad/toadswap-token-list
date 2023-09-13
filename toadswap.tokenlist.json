@@ -62,16 +62,6 @@
 		},
 		{
             "chainId": 1,
-			"name": "Zim",
-			"symbol": "ZIM",
-			"logoURI": "https://zim.social/images/zimlogo-200.png",
-			"address": "0x9df490b4a5e1699d9A390C65874FD40d86c51AFC",
-			
-			"decimals": 18
-			
-		},
-		{
-            "chainId": 1,
 			"name": "Jigga Token",
 			"symbol": "JIGGA",
 			"logoURI": "https://jiggatoken.com/token_logo.jpg",
