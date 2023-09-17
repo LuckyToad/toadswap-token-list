@@ -16,6 +16,14 @@
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
         },
+	    {
+	    		"chainId": 1,
+			"address": "0xee3200F94a1A2345E6Cc486032a5Df1D50cb621c",
+			"name": "ChartAI",
+			"symbol": "CX",
+			"logoURI": "https://i.ibb.co/W68sVzL/IMG-20230917-204201-888.png",
+			"decimals": 18
+		},
 		{
 			"chainId": 1,
 			"address": "0x8ca5bb317f73fcd8a9f7d122c14b9a1f87688230",
