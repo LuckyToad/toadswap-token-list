@@ -33,6 +33,14 @@
 			"logoURI": "https://i.ibb.co/W68sVzL/IMG-20230917-204201-888.png",
 			"decimals": 18
 		},
+ {
+	    		"chainId": 1,
+			"address": "0xCb9285243F02d7481Ee9D76a58C16eD0eDF1EfC2",
+			"name": "SwiftIntel",
+			"symbol": "SWIFTI",
+			"logoURI": "https://ibb.co/CsHcnXC",
+			"decimals": 9
+		},
 		{
 			"chainId": 1,
 			"address": "0x8ca5bb317f73fcd8a9f7d122c14b9a1f87688230",
