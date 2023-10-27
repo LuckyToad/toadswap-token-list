@@ -33,6 +33,14 @@
 			"logoURI": "https://i.ibb.co/W68sVzL/IMG-20230917-204201-888.png",
 			"decimals": 18
 		},
+	    {
+	    		"chainId": 1,
+			"address": "0x208BCf9CD1D694D1D3C630362E517940e3724D80",
+			"name": "ORACLE",
+			"symbol": "$ORACLE",
+			"logoURI": "https://qlasify.io/qlasify_logo.png",
+			"decimals": 9
+		},
  {
 	    		"chainId": 1,
 			"address": "0xCb9285243F02d7481Ee9D76a58C16eD0eDF1EfC2",
