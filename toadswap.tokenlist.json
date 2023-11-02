@@ -34,6 +34,14 @@
 		},
 	    {
 	    		"chainId": 1,
+			"address": "0x7f9b09f4717072cf4dc18b95d1b09e2b30c76790",
+			"name": "VaultTech",
+			"symbol": "$VAULT",
+			"logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x7f9b09f4717072cf4dc18b95d1b09e2b30c76790.jpeg?1698515624242",
+			"decimals": 18
+		},
+	    {
+	    		"chainId": 1,
 			"address": "0x208BCf9CD1D694D1D3C630362E517940e3724D80",
 			"name": "ORACLE",
 			"symbol": "$ORACLE",
