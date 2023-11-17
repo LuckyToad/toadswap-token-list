@@ -18,6 +18,14 @@
         },
 	    {
 	    		"chainId": 1,
+			"address": "0x38029c62dfa30d9fd3cadf4c64e9b2ab21dbda17",
+			"name": "Dubbz",
+			"symbol": "Dubbz",
+			"logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x38029c62dfa30d9fd3cadf4c64e9b2ab21dbda17.jpeg?1696527650",
+			"decimals": 18
+		},
+	    {
+	    		"chainId": 1,
 			"address": "0xee3200F94a1A2345E6Cc486032a5Df1D50cb621c",
 			"name": "ChartAI",
 			"symbol": "CX",
