@@ -16,6 +16,14 @@
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
         },
+	{
+            "chainId": 1,
+            "address": "0xbfb2b6870501a6ff17121d676a0a45a38c9eed1e",
+            "name": "DAOGame",
+            "symbol": "DAOG",
+            "logoURI": "https://defiallodds.io/images/logo.png",
+            "decimals": 18
+        },
 	    {
 	    		"chainId": 1,
 			"address": "0x38029c62dfa30d9fd3cadf4c64e9b2ab21dbda17",
@@ -38,6 +46,14 @@
 			"name": "AIgentX",
 			"symbol": "AIX",
 			"logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x40e9187078032afe1a30cfcf76e4fe3d7ab5c6c5.jpg?1696530673",
+			"decimals": 18
+		},
+	    {
+	    		"chainId": 1,
+			"address": "0x4727a02269943b225A7de9ef28496f36d454B983",
+			"name": "Flash Bot Token",
+			"symbol": "FBT",
+			"logoURI": "https://imgur.com/a/So9hm44",
 			"decimals": 18
 		},
 	    {
