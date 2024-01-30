@@ -1,7 +1,7 @@
 {
     "name": "ToadSwap Tokens",
     "timestamp": "2023-08-02T20:48:00.000Z",
-    "version":{
+    "version": {
         "major": 1,
         "minor": 0,
         "patch": 0
@@ -16,7 +16,7 @@
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
         },
-	{
+        {
             "chainId": 1,
             "address": "0x682f3317a8db21ba205dc84a0b7bd5010333bda7",
             "name": "DAOGame",
@@ -24,131 +24,140 @@
             "logoURI": "https://defiallodds.io/images/logo.png",
             "decimals": 18
         },
-	{
+        {
+            "chainId": 1,
+            "address": "0x38029c62dfa30d9fd3cadf4c64e9b2ab21dbda17",
+            "name": "Dubbz",
+            "symbol": "Dubbz",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x38029c62dfa30d9fd3cadf4c64e9b2ab21dbda17.jpeg?1696527650",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x1b9934e8c5761a536b8e62ff72527f181cf4ac03",
+            "name": "Monie Bot",
+            "symbol": "Monie",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x1b9934e8c5761a536b8e62ff72527f181cf4ac03.jpeg?1705523250301",
+            "decimals": 18
+        },
+        {
+            "address": "0xd377f28245bc505190c8f34d2bfe5f215754f634",
+            "name": "0xLiquidity",
+            "symbol": "0xLP",
+            "logoURI": "https://ibb.co/Q9pX13W",
+            "decimals": "9"
+        },
+        {
             "chainId": 1,
             "address": "0xe7eF051C6EA1026A70967E8F04da143C67Fa4E1f",
             "name": "VetMe",
             "symbol": "VetMe",
-            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xe7ef051c6ea1026a70967e8f04da143c67fa4e1f.png",
+            "logoURI": "https://ibb.co/99JYqdz",
             "decimals": 9
         },
-	    {
-	    		"chainId": 1,
-			"address": "0x38029c62dfa30d9fd3cadf4c64e9b2ab21dbda17",
-			"name": "Dubbz",
-			"symbol": "Dubbz",
-			"logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x38029c62dfa30d9fd3cadf4c64e9b2ab21dbda17.jpeg?1696527650",
-			"decimals": 18
-		},
-	    {
-	    		"chainId": 1,
-			"address": "0xee3200F94a1A2345E6Cc486032a5Df1D50cb621c",
-			"name": "ChartAI",
-			"symbol": "CX",
-			"logoURI": "https://i.ibb.co/W68sVzL/IMG-20230917-204201-888.png",
-			"decimals": 18
-		},
-	    {
-	    		"chainId": 1,
-			"address": "0x40e9187078032AfE1a30cfcF76E4fe3D7aB5c6C5",
-			"name": "AIgentX",
-			"symbol": "AIX",
-			"logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x40e9187078032afe1a30cfcf76e4fe3d7ab5c6c5.jpg?1696530673",
-			"decimals": 18
-		},
-	    {
-	    		"chainId": 1,
-			"address": "0x4727a02269943b225A7de9ef28496f36d454B983",
-			"name": "Flash Bot Token",
-			"symbol": "FBT",
-			"logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x4727a02269943b225a7de9ef28496f36d454b983.png?1690579420233",
-			"decimals": 18
-		},
-	    {
-	    		"chainId": 1,
-			"address": "0x7f9b09f4717072cf4dc18b95d1b09e2b30c76790",
-			"name": "VaultTech",
-			"symbol": "$VAULT",
-			"logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x7f9b09f4717072cf4dc18b95d1b09e2b30c76790.jpeg?1698515624242",
-			"decimals": 18
-		},
-	    {
-	    		"chainId": 1,
-			"address": "0x208BCf9CD1D694D1D3C630362E517940e3724D80",
-			"name": "ORACLE",
-			"symbol": "$ORACLE",
-			"logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x208bcf9cd1d694d1d3c630362e517940e3724d80.png?1695729117053",
-			"decimals": 9
-		},
-	    {
-	    		"chainId": 1,
-			"address": "0xCb9285243F02d7481Ee9D76a58C16eD0eDF1EfC2",
-			"name": "SwiftIntel",
-			"symbol": "SWIFTI",
-			"logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xcb9285243f02d7481ee9d76a58c16ed0edf1efc2.png?1697703398105",
-			"decimals": 9
-		},
-		{
-			"chainId": 1,
-			"address": "0x8ca5bb317f73fcd8a9f7d122c14b9a1f87688230",
-			"name": "SocialAI",
-			"symbol": "sAI",
-			"logoURI": "https://firebasestorage.googleapis.com/v0/b/socialai-5933f.appspot.com/o/logo_small.png?alt=media&token=4a88541c-f359-4896-8520-0208ce28673b",
-			"decimals": 18
-		},	    
-	    {
-	    		"chainId": 1,
-			"address": "0x14feE680690900BA0ccCfC76AD70Fd1b95D10e16",
-			"name": "Paal AI",
-			"symbol": "PAAL",
-			"logoURI": "https://i.ibb.co/wy4smL9/IMG-0133.png",
-			"decimals": 9
-		},
-	    {
+        {
             "chainId": 1,
-			"name": "HACHI",
-			"symbol": "HACHI",
-			"logoURI": "https://hachitoken.com/logo001.png",
-			"address": "0x2a7e415c169ce3a580c6f374dc26f6aaad1eccfe",
-			"decimals": 18
-		},
-	    {
+            "address": "0xee3200F94a1A2345E6Cc486032a5Df1D50cb621c",
+            "name": "ChartAI",
+            "symbol": "CX",
+            "logoURI": "https://i.ibb.co/W68sVzL/IMG-20230917-204201-888.png",
+            "decimals": 18
+        },
+        {
             "chainId": 1,
-			"name": "ArchAngel",
-			"symbol": "ARCHA",
-			"logoURI": "https://assets.coingecko.com/coins/images/18814/large/Archa_200_x_200_PNG.png",
-			"address": "0x36e43065e977bc72cb86dbd8405fae7057cdc7fd",
-			
-			"decimals": 9
-			
-		},
-	    {
+            "address": "0x40e9187078032AfE1a30cfcF76E4fe3D7aB5c6C5",
+            "name": "AIgentX",
+            "symbol": "AIX",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x40e9187078032afe1a30cfcf76e4fe3d7ab5c6c5.jpg?1696530673",
+            "decimals": 18
+        },
+        {
             "chainId": 1,
-			"name": "Guardian Token",
-			"symbol": "GUARDIAN",
-			"logoURI": "https://guardianplatform.io/wp-content/uploads/2022/03/logo-guardian-lg.png",
-			"address": "0x16c525c7cd751c19adf26f39118154d7c4bd0088",
-			"decimals": 18
-		},
-	    {
+            "address": "0x4727a02269943b225A7de9ef28496f36d454B983",
+            "name": "Flash Bot Token",
+            "symbol": "FBT",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x4727a02269943b225a7de9ef28496f36d454b983.png?1690579420233",
+            "decimals": 18
+        },
+        {
             "chainId": 1,
-			"name": "Teh Wae",
-			"symbol": "TWAE",
-			"logoURI": "https://i.ibb.co/938f3cP/favicon.png",
-			"address": "0x1519633c3b0e8c801e644bd5e45c55095d150de4",
-			
-			"decimals": 18
-			
-		},
-	    {
+            "address": "0x7f9b09f4717072cf4dc18b95d1b09e2b30c76790",
+            "name": "VaultTech",
+            "symbol": "$VAULT",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x7f9b09f4717072cf4dc18b95d1b09e2b30c76790.jpeg?1698515624242",
+            "decimals": 18
+        },
+        {
             "chainId": 1,
-			"name": "Jigga Token",
-			"symbol": "JIGGA",
-			"logoURI": "https://jiggatoken.com/token_logo.jpg",
-			"address": "0xb0A8E48379131f417fed679e4D1499DE45c64d53",
-			
-			"decimals": 9
-			
-		}
+            "address": "0x208BCf9CD1D694D1D3C630362E517940e3724D80",
+            "name": "ORACLE",
+            "symbol": "$ORACLE",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x208bcf9cd1d694d1d3c630362e517940e3724d80.png?1695729117053",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0xCb9285243F02d7481Ee9D76a58C16eD0eDF1EfC2",
+            "name": "SwiftIntel",
+            "symbol": "SWIFTI",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xcb9285243f02d7481ee9d76a58c16ed0edf1efc2.png?1697703398105",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0x8ca5bb317f73fcd8a9f7d122c14b9a1f87688230",
+            "name": "SocialAI",
+            "symbol": "sAI",
+            "logoURI": "https://firebasestorage.googleapis.com/v0/b/socialai-5933f.appspot.com/o/logo_small.png?alt=media&token=4a88541c-f359-4896-8520-0208ce28673b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x14feE680690900BA0ccCfC76AD70Fd1b95D10e16",
+            "name": "Paal AI",
+            "symbol": "PAAL",
+            "logoURI": "https://i.ibb.co/wy4smL9/IMG-0133.png",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "HACHI",
+            "symbol": "HACHI",
+            "logoURI": "https://hachitoken.com/logo001.png",
+            "address": "0x2a7e415c169ce3a580c6f374dc26f6aaad1eccfe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ArchAngel",
+            "symbol": "ARCHA",
+            "logoURI": "https://assets.coingecko.com/coins/images/18814/large/Archa_200_x_200_PNG.png",
+            "address": "0x36e43065e977bc72cb86dbd8405fae7057cdc7fd",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Guardian Token",
+            "symbol": "GUARDIAN",
+            "logoURI": "https://guardianplatform.io/wp-content/uploads/2022/03/logo-guardian-lg.png",
+            "address": "0x16c525c7cd751c19adf26f39118154d7c4bd0088",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Teh Wae",
+            "symbol": "TWAE",
+            "logoURI": "https://i.ibb.co/938f3cP/favicon.png",
+            "address": "0x1519633c3b0e8c801e644bd5e45c55095d150de4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Jigga Token",
+            "symbol": "JIGGA",
+            "logoURI": "https://jiggatoken.com/token_logo.jpg",
+            "address": "0xb0A8E48379131f417fed679e4D1499DE45c64d53",
+            "decimals": 9
+        }
     ]
 }
