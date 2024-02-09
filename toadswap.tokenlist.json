@@ -57,6 +57,46 @@
         },
         {
             "chainId": 1,
+            "address": "0xeAA63125dd63f10874F99CdBbb18410e7Fc79dD3",
+            "name": "Hemule",
+            "symbol": "HEMULE",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xeaa63125dd63f10874f99cdbbb18410e7fc79dd3.png?1702870281971",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x8b227d72570d3ead66014bca8305cbef7f90d1ee",
+            "name": "Liza",
+            "symbol": "LIZA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x8b227d72570d3ead66014bca8305cbef7f90d1ee.jpeg?1689395439607",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x8C6778023C3D4FD79DdD14810079F64c39e9E43d",
+            "name": "0xAISwap",
+            "symbol": "0xAISwap",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x8c6778023c3d4fd79ddd14810079f64c39e9e43d.png?1694898428870",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xa0e7626287bd02cbe3531c65148261bf0c0ed98b",
+            "name": "Shill Guard Token",
+            "symbol": "SGT",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xa0e7626287bd02cbe3531c65148261bf0c0ed98b.png?1699350137877",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xf250b1f6193941bb8bff4152d719edf1a59c0e69",
+            "name": "AIRealm",
+            "symbol": "AIRM",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xf250b1f6193941bb8bff4152d719edf1a59c0e69.png?1705078677233",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xee3200F94a1A2345E6Cc486032a5Df1D50cb621c",
             "name": "ChartAI",
             "symbol": "CX",
