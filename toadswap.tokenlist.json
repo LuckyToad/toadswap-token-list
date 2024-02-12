@@ -65,6 +65,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x6e0d90408e6e28ff19d5e444c6d9d2751712bfaa",
+            "name": "wooftools.io",
+            "symbol": "WOOFS",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x6e0d90408e6e28ff19d5e444c6d9d2751712bfaa.png?1707003124271",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x8b227d72570d3ead66014bca8305cbef7f90d1ee",
             "name": "Liza",
             "symbol": "LIZA",
