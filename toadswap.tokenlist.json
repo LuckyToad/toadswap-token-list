@@ -41,11 +41,26 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x1C001D1C9e8c7B8dC717c714d30b31480ab360F5",
+            "name": "Gigantix Wallet Token",
+            "symbol": "GTX",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x1c001d1c9e8c7b8dc717c714d30b31480ab360f5.jpeg?1701184954146",
+            "decimals": 18
+        },
+        {
             "address": "0xd377f28245bc505190c8f34d2bfe5f215754f634",
             "name": "0xLiquidity",
             "symbol": "0xLP",
             "logoURI": "https://i.ibb.co/F6mnjLQ/Logo-MAIN.jpg",
-            "decimals": "9"
+            "decimals": 9
+        },
+        {
+            "address": "0xe285279a495d6126089efda04caa960d1a166131",
+            "name": "NovaCore",
+            "symbol": "NCOR",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xe285279a495d6126089efda04caa960d1a166131.jpeg?1706208195109",
+            "decimals": 9
         },
         {
             "chainId": 1,
@@ -53,7 +68,7 @@
             "name": "VetMe",
             "symbol": "VetMe",
             "logoURI": "https://i.ibb.co/6R2s4qV/IMG-20230320-224053-724-1.png",
-            "decimals": 9
+            "decimals": 8
         },
         {
             "chainId": 1,
