@@ -56,6 +56,14 @@
             "decimals": 9
         },
         {
+            "chainId": 1,
+            "address": "0x319bcf115e35c18035bf1a405fe3c40c8b24533e",
+            "name": "Starship",
+            "symbol": "STARSHIP",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x319bcf115e35c18035bf1a405fe3c40c8b24533e.jpg?1703620887919",
+            "decimals": 9
+        },
+        {
             "address": "0xe285279a495d6126089efda04caa960d1a166131",
             "name": "NovaCore",
             "symbol": "NCOR",
