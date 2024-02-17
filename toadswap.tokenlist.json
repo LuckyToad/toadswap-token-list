@@ -80,6 +80,35 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x335f4e66b9b61cee5ceade4e727fcec20156b2f0",
+            "name": "ElmoERC",
+            "symbol": "ELMO",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x335f4e66b9b61cee5ceade4e727fcec20156b2f0.png?1683195832593",
+            "decimals": 18
+        },{
+            "chainId": 1,
+            "address": "0x80d186b4c786ea66592b2c52e2004ab10cfe4cf3",
+            "name": "LYNX",
+            "symbol": "LYNX",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x80d186b4c786ea66592b2c52e2004ab10cfe4cf3.png?1697005251896",
+            "decimals": 18
+        },{
+            "chainId": 1,
+            "address": "0xa9fbcc25435ad713a9468d8c89dd7baae8914e3a",
+            "name": "Prophet",
+            "symbol": "PROPHET",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xa9fbcc25435ad713a9468d8c89dd7baae8914e3a.jpeg?1695037825204",
+            "decimals": 18
+        },{
+            "chainId": 1,
+            "address": "0xf8ebf4849F1Fa4FaF0DFF2106A173D3A6CB2eB3A",
+            "name": "Troll",
+            "symbol": "Troll",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xf8ebf4849f1fa4faf0dff2106a173d3a6cb2eb3a.jpeg?1705039502507",
+            "decimals": 18
+        },
+        {
             "address": "0xe285279a495d6126089efda04caa960d1a166131",
             "name": "NovaCore",
             "symbol": "NCOR",
