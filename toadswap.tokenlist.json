@@ -86,21 +86,56 @@
             "symbol": "ELMO",
             "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x335f4e66b9b61cee5ceade4e727fcec20156b2f0.png?1683195832593",
             "decimals": 18
-        },{
+        },
+        {
+            "chainId": 1,
+            "address": "0xaccf1ca46b51784f01936711f3b19ef401a01362",
+            "name": "Multiblock",
+            "symbol": "mblock",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xaccf1ca46b51784f01936711f3b19ef401a01362.jpeg?1706554950054",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x369733153e6e08d38f2bc72ae2432e855cfbe221",
+            "name": "X-Alpha.ai",
+            "symbol": "XALPHA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x369733153e6e08d38f2bc72ae2432e855cfbe221.webp?1705980359571",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x9b3a8159e119eb09822115ae08ee1526849e1116",
+            "name": "Meme Alliance",
+            "symbol": "MMA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x9b3a8159e119eb09822115ae08ee1526849e1116.png?1702060616456",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0xddcc69879e1d2376ce799051afa98c689f234cca",
+            "name": "SmartMoney",
+            "symbol": "SMRT",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xddcc69879e1d2376ce799051afa98c689f234cca.jpg?1707951738342",
+            "decimals": 9
+        },
+        {
             "chainId": 1,
             "address": "0x80d186b4c786ea66592b2c52e2004ab10cfe4cf3",
             "name": "LYNX",
             "symbol": "LYNX",
             "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x80d186b4c786ea66592b2c52e2004ab10cfe4cf3.png?1697005251896",
             "decimals": 18
-        },{
+        },
+        {
             "chainId": 1,
             "address": "0xa9fbcc25435ad713a9468d8c89dd7baae8914e3a",
             "name": "Prophet",
             "symbol": "PROPHET",
             "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xa9fbcc25435ad713a9468d8c89dd7baae8914e3a.jpeg?1695037825204",
             "decimals": 18
-        },{
+        },
+        {
             "chainId": 1,
             "address": "0xf8ebf4849F1Fa4FaF0DFF2106A173D3A6CB2eB3A",
             "name": "Troll",
