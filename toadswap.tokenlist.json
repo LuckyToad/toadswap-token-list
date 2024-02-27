@@ -49,6 +49,70 @@
             "decimals": 18
         },
         {
+            "chainId": 1,
+            "address": "0x682f3317a8db21ba205dc84a0b7bd5010333bda7",
+            "name": "DAOGame",
+            "symbol": "DAOG",
+            "logoURI": "https://defiallodds.io/images/logo.png",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x209a78d23f825950a5df4d6d21288e5212b44f2c",
+            "name": "AlphaNova",
+            "symbol": "ANVA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x209a78d23f825950a5df4d6d21288e5212b44f2c.png?1704286730065",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xdaa7699352ac8709f3d2fd092226d3dd7da40474",
+            "name": "OP_CAT",
+            "symbol": "OPCAT",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xdaa7699352ac8709f3d2fd092226d3dd7da40474.png?1705719425473",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x98e35F5599b57998900E5E0675721C90A5499327",
+            "name": "BuddyAI",
+            "symbol": "BUDDY",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x98e35f5599b57998900e5e0675721c90a5499327.png?1703737915010",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0xbc6378FAae98Fb2207Bb6c35c0f8Ce5846FD4C6c",
+            "name": "W8BIT",
+            "symbol": "18",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/bsc/0xbc6378faae98fb2207bb6c35c0f8ce5846fd4c6c.png?1704978016649",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xf7498c98789957f4ee53b3e37ff5b7ef8a6cfc7b",
+            "name": "DEVAI",
+            "symbol": "0XDEV",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xf7498c98789957f4ee53b3e37ff5b7ef8a6cfc7b.png?1701323223825",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x73454acfddb7a36a3cd8eb171fbea86c6a55e550",
+            "name": "BuildAI",
+            "symbol": "BUILD",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x73454acfddb7a36a3cd8eb171fbea86c6a55e550.jpeg?1708615679858",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0xbf72ee725f9b06dc564324774801acebad061946",
+            "name": "DAPP AI",
+            "symbol": "DAP",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xbf72ee725f9b06dc564324774801acebad061946.jpg?1708567132664",
+            "decimals": 18
+        },
+        {
             "address": "0xd377f28245bc505190c8f34d2bfe5f215754f634",
             "name": "0xLiquidity",
             "symbol": "0xLP",
@@ -63,6 +127,7 @@
             "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x319bcf115e35c18035bf1a405fe3c40c8b24533e.jpg?1703620887919",
             "decimals": 9
         },
+        
         {
             "chainId": 1,
             "address": "0x0eb1e72204c42de2263d37db606fb25c21d649b8",
