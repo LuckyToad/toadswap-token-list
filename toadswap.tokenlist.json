@@ -58,6 +58,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x6e51293a4adbace0082067312cc0110e7dd33b2e",
+            "name": "Spatial Sync AI",
+            "symbol": "$SYNC",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x6e51293a4adbace0082067312cc0110e7dd33b2e.jpg?1708627192871",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0x209a78d23f825950a5df4d6d21288e5212b44f2c",
             "name": "AlphaNova",
             "symbol": "ANVA",
