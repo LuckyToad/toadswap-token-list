@@ -60,7 +60,7 @@
             "chainId": 1,
             "address": "0x6e51293a4adbace0082067312cc0110e7dd33b2e",
             "name": "Spatial Sync AI",
-            "symbol": "$SYNC",
+            "symbol": "SYNC",
             "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x6e51293a4adbace0082067312cc0110e7dd33b2e.jpg?1708627192871",
             "decimals": 9
         },
