@@ -91,8 +91,8 @@
         {
             "chainId": 1,
             "address": "0xbc6378FAae98Fb2207Bb6c35c0f8Ce5846FD4C6c",
-            "name": "W8BIT",
-            "symbol": "18",
+            "name": "8Bit Chain",
+            "symbol": "w8Bit",
             "logoURI": "https://www.dextools.io/resources/tokens/logos/bsc/0xbc6378faae98fb2207bb6c35c0f8ce5846fd4c6c.png?1704978016649",
             "decimals": 18
         },
