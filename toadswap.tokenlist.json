@@ -170,14 +170,6 @@
         },
         {
             "chainId": 1,
-            "address": "0x2907dCbC51191A5d7494077d1156FFfC34f110AB",
-            "name": "Dibbles 404",
-            "symbol": "ERRDB",
-            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x2907dcbc51191a5d7494077d1156fffc34f110ab.png?1709715045",
-            "decimals": 18
-        },
-        {
-            "chainId": 1,
             "address": "0x571e21a545842c6ce596663cda5caa8196ac1c7a",
             "name": "Champignons of Arborethia",
             "symbol": "CHAMPZ",
