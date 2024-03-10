@@ -94,7 +94,151 @@
             "name": "Rizo",
             "symbol": "RIZO",
             "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x74e9fee3fcb56bccac22e726cce7a78ca90185e1.png?1708560758940",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xD528cf2E081f72908e086F8800977df826B5a483",
+            "name": "Paribus",
+            "symbol": "PBX",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0xd528cf2e081f72908e086f8800977df826b5a483.png?1696517900",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x87869A9789291A6cEC99f3c3Ef2fF71fcEb12a8e",
+            "name": "Coinmerge OS",
+            "symbol": "CMOS",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x87869a9789291a6cec99f3c3ef2ff71fceb12a8e.png?1696528277",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0x3f57c35633cb29834bb7577ba8052eab90f52a02",
+            "name": "Defender Bot",
+            "symbol": "DFNDR",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x3f57c35633cb29834bb7577ba8052eab90f52a02.png?1705696380679",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xee372d2b7e7c83de7e345267b5e4efc1899a4fab",
+            "name": "Xtrack",
+            "symbol": "XTRACK",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xee372d2b7e7c83de7e345267b5e4efc1899a4fab.jpeg?1702524569937",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x257508ca6341337dd243d54afd964e19375b4af9",
+            "name": "Oracle Tools",
+            "symbol": "OT",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x257508ca6341337dd243d54afd964e19375b4af9.jpg?1707505952146",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xa4bc2b90743294e5e6fd3321a9a131947f7785db",
+            "name": "Jester",
+            "symbol": "JEST",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xa4bc2b90743294e5e6fd3321a9a131947f7785db.jpg?1701644805714",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0xE59B14E43479dc30d77F553e4B5c6fC67e1F6CAF",
+            "name": "LEXA AI",
+            "symbol": "LEXA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xe59b14e43479dc30d77f553e4b5c6fc67e1f6caf.png?1707337714196",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xa76cec201e939660f8afb1fb8d5865d069df0750",
+            "name": "Wanna",
+            "symbol": "WANNA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xa76cec201e939660f8afb1fb8d5865d069df0750.png?1709230936489",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x891de5f139791dDF9dBaBF519cfE2A049f8FC6d3",
+            "name": "Dibbles",
+            "symbol": "DIBBLE",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x891de5f139791ddf9dbabf519cfe2a049f8fc6d3.png?1706133142915",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x2907dCbC51191A5d7494077d1156FFfC34f110AB",
+            "name": "Dibbles 404",
+            "symbol": "ERRDB",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x2907dcbc51191a5d7494077d1156fffc34f110ab.png?1709715045",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x571e21a545842c6ce596663cda5caa8196ac1c7a",
+            "name": "Champignons of Arborethia",
+            "symbol": "CHAMPZ",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x571e21a545842c6ce596663cda5caa8196ac1c7a.jpeg?1707720999845",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "address": "0x1f769203D2abcb78F5A77dD15C0078C50fB13287",
+            "name": "AZURE WALLET",
+            "symbol": "AZURE",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x1f769203d2abcb78f5a77dd15c0078c50fb13287.png?1709593559115",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xf4A509313437dfC64E2EFeD14e2b607B1AED30c5",
+            "name": "FE TECH",
+            "symbol": "FETS",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xf4a509313437dfc64e2efed14e2b607b1aed30c5.jpg?1694692999603",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x45e412e1878080815d6d51d47b83d17869433459",
+            "name": "Chief Troll Officer",
+            "symbol": "CTO",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x45e412e1878080815d6d51d47b83d17869433459.jpg?1704777928046",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xd4318fa09c45cfb6355ded6085b0d698b64ec1cd",
+            "name": "Federal AI",
+            "symbol": "FEDAI",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xd4318fa09c45cfb6355ded6085b0d698b64ec1cd.png?1705703692046",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "address": "0x20bc71ddf242b88502d9819e02d45ad0d4a586c8",
+            "name": "Gravitron",
+            "symbol": "GTRON",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x20bc71ddf242b88502d9819e02d45ad0d4a586c8.jpg?1702529102",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0x7865ec47bef9823ad0010c4970ed90a5e8107e53",
+            "name": "NeoAudit AI",
+            "symbol": "NAAI",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x7865ec47bef9823ad0010c4970ed90a5e8107e53.png?1700925393",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x391fb9429d8685d5d0f14a185fc0820c6ac2817e",
+            "name": "NeonAI",
+            "symbol": "NeonAI",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x391fb9429d8685d5d0f14a185fc0820c6ac2817e.png?1709270916033",
+            "decimals": 18
         },
         {
             "chainId": 1,
