@@ -230,7 +230,7 @@
             "name": "NeonAI",
             "symbol": "NeonAI",
             "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x391fb9429d8685d5d0f14a185fc0820c6ac2817e.png?1709270916033",
-            "decimals": 18
+            "decimals": 9
         },
         {
             "chainId": 1,
@@ -356,7 +356,7 @@
             "address": "0x335f4e66b9b61cee5ceade4e727fcec20156b2f0",
             "name": "ElmoERC",
             "symbol": "ELMO",
-            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x335f4e66b9b61cee5ceade4e727fcec20156b2f0.png?1683195832593",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x335f4e66b9b61cee5ceade4e727fcec20156b2f0.png?1696930389",
             "decimals": 18
         },
         {
@@ -389,7 +389,7 @@
             "name": "SmartMoney",
             "symbol": "SMRT",
             "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xddcc69879e1d2376ce799051afa98c689f234cca.jpg?1707951738342",
-            "decimals": 9
+            "decimals": 18
         },
         {
             "chainId": 1,
