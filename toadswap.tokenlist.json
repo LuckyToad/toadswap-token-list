@@ -50,10 +50,90 @@
         },
         {
             "chainId": 1,
-            "address": "0x682f3317a8db21ba205dc84a0b7bd5010333bda7",
-            "name": "DAOGame",
-            "symbol": "DAOG",
-            "logoURI": "https://defiallodds.io/images/logo.png",
+            "address": "0xE8B1e79D937c648Ce1fE96e6739ddb2714058a18",
+            "name": "ColonizeMars",
+            "symbol": "GTM",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xe8b1e79d937c648ce1fe96e6739ddb2714058a18.jpg?1707932205649",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xdd4ce03b97085e5023d3a5fbff6e4f2c4dffb7c3",
+            "name": "PORA AI",
+            "symbol": "PORA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xdd4ce03b97085e5023d3a5fbff6e4f2c4dffb7c3.png?1710160923981",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x31bd628c038f08537e0229f0d8c0a7b18b0cda7b",
+            "name": "IntelliQuant",
+            "symbol": "INQU",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x31bd628c038f08537e0229f0d8c0a7b18b0cda7b.png?1707339246829",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x05f72d4555e71ef3f5862627828fc2f830d3ccb1",
+            "name": "DegenMasters AI",
+            "symbol": "DMAI",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x05f72d4555e71ef3f5862627828fc2f830d3ccb1.png?1709763888883",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x9094c15f2f535a765e8a2dac20b05148be7044cd",
+            "name": "Fusion Ai",
+            "symbol": "FUSION",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x9094c15f2f535a765e8a2dac20b05148be7044cd.png?1709825729682",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x1a3A8Cf347b2bF5890D3D6A1B981c4f4432C8661",
+            "name": "Flying Avocado Cat",
+            "symbol": "FAC",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x1a3a8cf347b2bf5890d3d6a1b981c4f4432c8661.png?1700310452247",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x92098551e613dfdcd4d7c7b2c35615709e4e0397",
+            "name": "ArtemisAI",
+            "symbol": "ATAI",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x92098551e613dfdcd4d7c7b2c35615709e4e0397.jpg?1704752885310",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x000000000a1c6659ac226dbb1c5bdc648df72e9e",
+            "name": "Looter",
+            "symbol": "LOOTER",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x000000000a1c6659ac226dbb1c5bdc648df72e9e.jpg?1709815677925",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x0678b252742ac8063502909aa7cc3efc694ae6e2",
+            "name": "Jeet Therapy",
+            "symbol": "THERAPY",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x000000000a1c6659ac226dbb1c5bdc648df72e9e.jpg?1709815677925",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xb39364b51d2c97b62b838bc5213b8627eb469101",
+            "name": "SWOT AI",
+            "symbol": "SWOT",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xb39364b51d2c97b62b838bc5213b8627eb469101.jpg?1705108736342",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xc668695dcbCf682dE106Da94bDE65c9bc79362d3",
+            "name": "Shadow Node",
+            "symbol": "SVPN",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xc668695dcbcf682de106da94bde65c9bc79362d3.png?1710510992033",
             "decimals": 18
         },
         {
