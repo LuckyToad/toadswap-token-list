@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x6f6382f241e3c6ee0e9bee2390d91a73adc0afff",
+            "name": "Teenage Mutant Ninja Turtles",
+            "symbol": "TMNT",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x6f6382f241e3c6ee0e9bee2390d91a73adc0afff.jpeg?1709466742361",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x682f3317a8db21ba205dc84a0b7bd5010333bda7",
             "name": "DAOGame",
             "symbol": "DAOG",
