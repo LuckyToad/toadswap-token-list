@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x6dD5F0038474dC29A0ADc6aD34d37B0Ba53E5435",
+            "name": "DEXED",
+            "symbol": "DEXED",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x6dd5f0038474dc29a0adc6ad34d37b0ba53e5435.png?1709055253109",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0x6f6382f241e3c6ee0e9bee2390d91a73adc0afff",
             "name": "Teenage Mutant Ninja Turtles",
             "symbol": "TMNT",
