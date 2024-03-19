@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x2048e0d048224381cac3ea06012ced4a6f122d32",
+            "name": "BANDS",
+            "symbol": "BANDS",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x2048e0d048224381cac3ea06012ced4a6f122d32.jpg?1708816035706",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x6dD5F0038474dC29A0ADc6aD34d37B0Ba53E5435",
             "name": "DEXED",
             "symbol": "DEXED",
