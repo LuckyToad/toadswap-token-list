@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x723696965F47B990Dff00064FcaCa95F0Ee01123",
+            "name": "Alpha Radar AI",
+            "symbol": "ARBOT",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x723696965f47b990dff00064fcaca95f0ee01123.png?1693887378610",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x6aa3ecec75ceb388d2e929814ead4fc4cd0648fc",
             "name": "Reversal",
             "symbol": "RVSL",
