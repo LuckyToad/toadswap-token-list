@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x70715e133f3b98af9dcb4897657cd4608d395d49",
+            "name": "NeuralByte",
+            "symbol": "NBT",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x70715e133f3b98af9dcb4897657cd4608d395d49.png?1711308602181",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0x723696965F47B990Dff00064FcaCa95F0Ee01123",
             "name": "Alpha Radar AI",
             "symbol": "ARBOT",
