@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xc106b98c4D0b3F1c92Da0E9a6089e9c63CEACBB0",
+            "name": "TrendAppend",
+            "symbol": "TRND",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xc106b98c4d0b3f1c92da0e9a6089e9c63ceacbb0.png?1710121357566",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0xbfb2b6870501a6ff17121d676a0a45a38c9eed1e",
             "name": "Toad",
             "symbol": "TOAD",
