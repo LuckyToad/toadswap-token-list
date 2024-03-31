@@ -10,6 +10,22 @@
     "tokens": [
         {
             "chainId": 1,
+            "address": "0xbfb2b6870501a6ff17121d676a0a45a38c9eed1e",
+            "name": "Toad",
+            "symbol": "TOAD",
+            "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0x0b452278223d3954f4ac050949d7998e373e7e43",
+            "name": "Shita-kiri Suzume",
+            "symbol": "SUZUME",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x0b452278223d3954f4ac050949d7998e373e7e43.png",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xda558a295e8d2c1438f7b4806e283940dec7e6db",
             "name": "Tracker AI",
             "symbol": "TRACK",
@@ -22,14 +38,6 @@
             "name": "TrendAppend",
             "symbol": "TRND",
             "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xc106b98c4d0b3f1c92da0e9a6089e9c63ceacbb0.png?1710121357566",
-            "decimals": 9
-        },
-        {
-            "chainId": 1,
-            "address": "0xbfb2b6870501a6ff17121d676a0a45a38c9eed1e",
-            "name": "Toad",
-            "symbol": "TOAD",
-            "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
         },
         {
