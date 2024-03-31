@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xd2002628224d7f6104b95e18db637c67e2131463",
+            "name": "XRAID AI",
+            "symbol": "XRAID",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xd2002628224d7f6104b95e18db637c67e2131463.png?1711569485916",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x0b452278223d3954f4ac050949d7998e373e7e43",
             "name": "Shita-kiri Suzume",
             "symbol": "SUZUME",
