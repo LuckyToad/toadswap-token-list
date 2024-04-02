@@ -18,6 +18,22 @@
         },
         {
             "chainId": 1,
+            "address": "0x2a8bf9e7c91c6e3237095e07eb3defbce358df00",
+            "name": "OpClouds",
+            "symbol": "OPC",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x2a8bf9e7c91c6e3237095e07eb3defbce358df00.png?1710178685912",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x4447743d42680F7fbB56e87b3617463113ca649E",
+            "name": "MeshWave",
+            "symbol": "MWAVE",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x4447743d42680f7fbb56e87b3617463113ca649e.png?1711920664066",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0xd2002628224d7f6104b95e18db637c67e2131463",
             "name": "XRAID AI",
             "symbol": "XRAID",
