@@ -18,6 +18,22 @@
         },
         {
             "chainId": 1,
+            "address": "0xDC7d16B1E7C54f35a67aF95d5A6eECAEC27B2a62",
+            "name": "Pulse AI",
+            "symbol": "PULSE",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xdc7d16b1e7c54f35a67af95d5a6eecaec27b2a62.jpg?1710361009586",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0x5f9289994507ebdfb7880067d1e8e95964c81e53",
+            "name": "Unitypad",
+            "symbol": "UPAD",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x5f9289994507ebdfb7880067d1e8e95964c81e53.png?1707512214893",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x2a8bf9e7c91c6e3237095e07eb3defbce358df00",
             "name": "OpClouds",
             "symbol": "OPC",
