@@ -22,7 +22,7 @@
             "name": "Pulse AI",
             "symbol": "PULSE",
             "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xdc7d16b1e7c54f35a67af95d5a6eecaec27b2a62.jpg?1710361009586",
-            "decimals": 9
+            "decimals": 18
         },
         {
             "chainId": 1,
