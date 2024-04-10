@@ -604,7 +604,7 @@
             "address": "0x9b3a8159e119eb09822115ae08ee1526849e1116",
             "name": "Meme Alliance",
             "symbol": "MMA",
-            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x9b3a8159e119eb09822115ae08ee1526849e1116.png?1702060616456",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x9b3a8159e119eb09822115ae08ee1526849e1116.png?1709978615",
             "decimals": 9
         },
         {
@@ -755,7 +755,7 @@
             "address": "0x8ca5bb317f73fcd8a9f7d122c14b9a1f87688230",
             "name": "SocialAI",
             "symbol": "sAI",
-            "logoURI": "https://firebasestorage.googleapis.com/v0/b/socialai-5933f.appspot.com/o/logo_small.png?alt=media&token=4a88541c-f359-4896-8520-0208ce28673b",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26872.png",
             "decimals": 18
         },
         {
@@ -770,7 +770,7 @@
             "chainId": 1,
             "name": "HACHI",
             "symbol": "HACHI",
-            "logoURI": "https://hachitoken.com/logo001.png",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x2a7e415c169ce3a580c6f374dc26f6aaad1eccfe.png?1677537912137",
             "address": "0x2a7e415c169ce3a580c6f374dc26f6aaad1eccfe",
             "decimals": 18
         },
