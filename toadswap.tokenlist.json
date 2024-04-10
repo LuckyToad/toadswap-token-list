@@ -18,18 +18,26 @@
         },
         {
             "chainId": 1,
-            "address": "0xd57187e56e5b31b4d7813d7ceea1e9f9b97ee82f",
-            "name": "zkInfra",
-            "symbol": "ZKIN",
-            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xd57187e56e5b31b4d7813d7ceea1e9f9b97ee82f.png?1711444026970",
+            "address": "0x8F43Ee50942E96D84052253AB13f59C1D942fb98",
+            "name": "PARAGON NETWORK",
+            "symbol": "PARA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x8f43ee50942e96d84052253ab13f59c1d942fb98.png?1712268385738",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0x0202be363b8a4820f3f4de7faf5224ff05943ab1",
+            "name": "UniLend Finance Token",
+            "symbol": "UFT",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x0202be363b8a4820f3f4de7faf5224ff05943ab1.png?1696512611",
             "decimals": 18
         },
         {
             "chainId": 1,
-            "address": "0xDC7d16B1E7C54f35a67aF95d5A6eECAEC27B2a62",
-            "name": "Pulse AI",
-            "symbol": "PULSE",
-            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xdc7d16b1e7c54f35a67af95d5a6eecaec27b2a62.jpg?1710361009586",
+            "address": "0xd57187e56e5b31b4d7813d7ceea1e9f9b97ee82f",
+            "name": "zkInfra",
+            "symbol": "ZKIN",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xd57187e56e5b31b4d7813d7ceea1e9f9b97ee82f.png?1711444026970",
             "decimals": 18
         },
         {
