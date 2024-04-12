@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xf92d62ed69242d655e685c96b98f32f1409c3262",
+            "name": "AlienForm",
+            "symbol": "A4M",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xf92d62ed69242d655e685c96b98f32f1409c3262.jpg?1702564257444",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0x8F43Ee50942E96D84052253AB13f59C1D942fb98",
             "name": "PARAGON NETWORK",
             "symbol": "PARA",
