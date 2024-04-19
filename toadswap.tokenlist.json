@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x85e0b9d3e7e4dba7e59090c533906d0e9211d8b6",
+            "name": "Ishi",
+            "symbol": "ISHI",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x85e0b9d3e7e4dba7e59090c533906d0e9211d8b6.jpg?1712049007247",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0xf92d62ed69242d655e685c96b98f32f1409c3262",
             "name": "AlienForm",
             "symbol": "A4M",
