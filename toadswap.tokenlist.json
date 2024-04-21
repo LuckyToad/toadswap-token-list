@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x17127ECbA31712697DA50247e5ba102981EED03a",
+            "name": "RunesHub",
+            "symbol": "RHUB",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x17127ecba31712697da50247e5ba102981eed03a.png?1713551635491",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0x85e0b9d3e7e4dba7e59090c533906d0e9211d8b6",
             "name": "Ishi",
             "symbol": "ISHI",
