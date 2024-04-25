@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x9d138cE8c16D19fd227F60B849688d6a9086D256",
+            "name": "Enigma Runes Protocol",
+            "symbol": "ENIGMA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x9d138ce8c16d19fd227f60b849688d6a9086d256.png?1713914689935",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0x17127ECbA31712697DA50247e5ba102981EED03a",
             "name": "RunesHub",
             "symbol": "RHUB",
