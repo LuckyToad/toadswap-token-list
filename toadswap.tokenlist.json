@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x3ea4055ab599f5cbb580d2c5e56d2fcff7db98cb",
+            "name": "TALYS",
+            "symbol": "TALYS",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x3ea4055ab599f5cbb580d2c5e56d2fcff7db98cb.png?1713211143779",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x9d138cE8c16D19fd227F60B849688d6a9086D256",
             "name": "Enigma Runes Protocol",
             "symbol": "ENIGMA",
