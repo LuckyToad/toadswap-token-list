@@ -18,6 +18,22 @@
         },
         {
             "chainId": 1,
+            "address": "0x202447dfba4829461bda1af98f6b82b3ae0e991b",
+            "name": "TRUMP 2024",
+            "symbol": "TRUMP",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x202447dfba4829461bda1af98f6b82b3ae0e991b.png?1714038602186",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0xa35923162c49cf95e6bf26623385eb431ad920d3",
+            "name": "Turbo",
+            "symbol": "TURBO",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xa35923162c49cf95e6bf26623385eb431ad920d3.jpeg?1683326534337",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x3ea4055ab599f5cbb580d2c5e56d2fcff7db98cb",
             "name": "TALYS",
             "symbol": "TALYS",
