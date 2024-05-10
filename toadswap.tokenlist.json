@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x89407418b9aa8b525911640f42a87676c6bb077b",
+            "name": "CloudMind AI",
+            "symbol": "CMND",
+            "logoURI": "https://cloudmindai.io/img/logo.svg",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0x202447dfba4829461bda1af98f6b82b3ae0e991b",
             "name": "TRUMP 2024",
             "symbol": "TRUMP",
