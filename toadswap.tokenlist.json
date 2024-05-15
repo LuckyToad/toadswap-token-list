@@ -18,6 +18,22 @@
         },
         {
             "chainId": 1,
+            "address": "0xbe4d9c8c638b5f0864017d7f6a04b66c42953847",
+            "name": "Nimbus Network",
+            "symbol": "NIMBUS",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xbe4d9c8c638b5f0864017d7f6a04b66c42953847.webp?1715641655581",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x1814b8a33446549ed5766ab3250b670498699bd6",
+            "name": "Innovia Trust",
+            "symbol": "INVA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x1814b8a33446549ed5766ab3250b670498699bd6.png?1713906437968",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x89407418b9aa8b525911640f42a87676c6bb077b",
             "name": "CloudMind AI",
             "symbol": "CMND",
