@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x8dCE83ECa4af45dbe618Da1779F9Aaca43201084",
+            "name": "AlphaKEK.AI",
+            "symbol": "AIKEK",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x8dce83eca4af45dbe618da1779f9aaca43201084.png?1708620097",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xbe4d9c8c638b5f0864017d7f6a04b66c42953847",
             "name": "Nimbus Network",
             "symbol": "NIMBUS",
