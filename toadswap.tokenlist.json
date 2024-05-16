@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xa059b81568fee88791de88232e838465826cf419",
+            "name": "THREE Protocol Token",
+            "symbol": "THREE",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xa059b81568fee88791de88232e838465826cf419.jpg?1714426634616",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0x8dCE83ECa4af45dbe618Da1779F9Aaca43201084",
             "name": "AlphaKEK.AI",
             "symbol": "AIKEK",
