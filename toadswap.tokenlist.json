@@ -901,6 +901,14 @@
             "logoURI": "https://jiggatoken.com/token_logo.jpg",
             "address": "0xb0A8E48379131f417fed679e4D1499DE45c64d53",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Big Tom",
+            "symbol": "TOM",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xeeecd285f60e802ecb6d8d8d37790c887f9a4b33.png?1713692596491",
+            "address": "0xeeecd285f60e802ecb6d8d8d37790c887f9a4b33",
+            "decimals": 9
         }
     ]
 }
