@@ -16,6 +16,15 @@
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
         },
+        
+        {
+            "chainId": 1,
+            "address": "0x2FBf61e5236126871018BFBf368BA4CFce0D4512",
+            "name": "BitClouds",
+            "symbol": "BCS",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x2fbf61e5236126871018bfbf368ba4cfce0d4512.png?1716315413417",
+            "decimals": 18
+        },
         {
             "chainId": 1,
             "address": "0xa059b81568fee88791de88232e838465826cf419",
