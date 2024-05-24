@@ -16,7 +16,15 @@
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
         },
-        
+        0x990204dc24fa22c8d590870a7cc7fbb25e4e35dc
+        {
+            "chainId": 1,
+            "address": "0x990204dc24fa22c8d590870a7cc7fbb25e4e35dc",
+            "name": "Sonar Systems",
+            "symbol": "SONAR",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x990204dc24fa22c8d590870a7cc7fbb25e4e35dc.jpg?1716055952476",
+            "decimals": 9
+        },
         {
             "chainId": 1,
             "address": "0x2FBf61e5236126871018BFBf368BA4CFce0D4512",
