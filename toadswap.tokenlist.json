@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xf02c2dc9b3cb7f1ba21ccd82dff4ebc92da8996f",
+            "name": "TensorScan AI",
+            "symbol": "TSA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xf02c2dc9b3cb7f1ba21ccd82dff4ebc92da8996f.png?1709926754581",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x990204dc24fa22c8d590870a7cc7fbb25e4e35dc",
             "name": "Sonar Systems",
             "symbol": "SONAR",
