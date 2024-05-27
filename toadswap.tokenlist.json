@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x6106292cFc8994A4483702F6fb05acA80E7FbAe4",
+            "name": "RaidTech",
+            "symbol": "RAID",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x6106292cfc8994a4483702f6fb05aca80e7fbae4.png?1716498904106",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xf02c2dc9b3cb7f1ba21ccd82dff4ebc92da8996f",
             "name": "TensorScan AI",
             "symbol": "TSA",
