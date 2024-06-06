@@ -15,6 +15,14 @@
             "symbol": "TOAD",
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
+        }, 0x3e34eabf5858a126cb583107e643080cee20ca64
+         {
+            "chainId": 1,
+            "address": "0x3e34eabf5858a126cb583107e643080cee20ca64",
+            "name": "Linq",
+            "symbol": "LINQ",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x7137e8a3b069c3f787c4ffbb901b91e4ba47d082.png?1695305191856",
+            "decimals": 18
         },
         {
             "chainId": 1,
