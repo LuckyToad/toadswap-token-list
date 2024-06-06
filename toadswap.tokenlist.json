@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x7137e8a3b069c3f787c4ffbb901b91e4ba47d082",
+            "name": "Zeus",
+            "symbol": "ZEUS",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x7137e8a3b069c3f787c4ffbb901b91e4ba47d082.png?1695305191856",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0xbf5Badfae2d219943DCD9652D1cE65960b8A1e0c",
             "name": "PaleBlueDot",
             "symbol": "Earth",
