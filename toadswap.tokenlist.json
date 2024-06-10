@@ -16,6 +16,14 @@
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
         },
+        {
+            "chainId": 1,
+            "address": "0xc78a697ca2eec28682d6784ce588ab774c101cd2",
+            "name": "DupeBot",
+            "symbol": "DUPE",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xc78a697ca2eec28682d6784ce588ab774c101cd2.png?1717335702304",
+            "decimals": 9
+        },
          {
             "chainId": 1,
             "address": "0x3e34eabf5858a126cb583107e643080cee20ca64",
