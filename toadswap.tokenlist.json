@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xf18a123ff479ff30336302bded29696ead2f3411",
+            "name": "Off Radar VPN",
+            "symbol": "ORV",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xf18a123ff479ff30336302bded29696ead2f3411.png?1717719214763",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xc78a697ca2eec28682d6784ce588ab774c101cd2",
             "name": "DupeBot",
             "symbol": "DUPE",
