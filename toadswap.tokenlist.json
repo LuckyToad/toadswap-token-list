@@ -15,6 +15,14 @@
             "symbol": "TOAD",
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
+        },0x1fdd61ef9a5c31b9a2abc7d39c139c779e8412af
+        {
+            "chainId": 1,
+            "address": "0x1fdd61ef9a5c31b9a2abc7d39c139c779e8412af",
+            "name": "JEJE",
+            "symbol": "JJ",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x1fdd61ef9a5c31b9a2abc7d39c139c779e8412af.png?1717719214763",
+            "decimals": 9
         },
         {
             "chainId": 1,
