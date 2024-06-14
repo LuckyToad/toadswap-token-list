@@ -15,6 +15,14 @@
             "symbol": "TOAD",
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
+        },0x8cefbeb2172a9382753de431a493e21ba9694004
+        {
+            "chainId": 1,
+            "address": "0x8cefbeb2172a9382753de431a493e21ba9694004",
+            "name": "Melania Trump",
+            "symbol": "MELANIA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x8cefbeb2172a9382753de431a493e21ba9694004.png?1717719214763",
+            "decimals": 9
         },
         {
             "chainId": 1,
