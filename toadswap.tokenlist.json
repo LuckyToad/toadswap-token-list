@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x9a0d1b52e0684ab42aa0c2613abb4c04217e8aa6",
+            "name": "Boys Club Munchy",
+            "symbol": "Munchy",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x9a0d1b52e0684ab42aa0c2613abb4c04217e8aa6.png?1717719214763",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0x19848077f45356b21164c412eff3d3e4ff6ebc31",
             "name": "SPIKE",
             "symbol": "SPIKE",
