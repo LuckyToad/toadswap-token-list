@@ -24,7 +24,7 @@
             "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x8d65a2eaBDE4B31cbD7E43F27E47559d1CCec86c.png?1717719214763",
             "decimals": 9
         },
-        {0x8d65a2eaBDE4B31cbD7E43F27E47559d1CCec86c
+        {
             "chainId": 1,
             "address": "0xd8c978de79e12728e38aa952a6cb4166f891790f",
             "name": "Roaring Kitty",
