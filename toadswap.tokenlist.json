@@ -15,13 +15,21 @@
             "symbol": "TOAD",
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
+        },0x69420bad4e6f844c023488ffd44433626602bd69
+        {
+            "chainId": 1,
+            "address": "0x69420bad4e6f844c023488ffd44433626602bd69",
+            "name": "Girls Club",
+            "symbol": "GIRLS",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x69420bad4e6f844c023488ffd44433626602bd69.png?1721187657105",
+            "decimals": 9
         },
          {
             "chainId": 1,
             "address": "0xb9d09bc374577dac1ab853de412a903408204ea8",
             "name": "SheiShei",
             "symbol": "SHEI",
-            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xb9d09bc374577dac1ab853de412a903408204ea8.png?1721250059393",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xb9d09bc374577dac1ab853de412a903408204ea8.jpeg?1721250059393",
             "decimals": 18
         },
         {
@@ -29,7 +37,7 @@
             "address": "0xb47bd6bf7913ce10fcca1cdc0cf9ca400d3dc5a6",
             "name": "Archie",
             "symbol": "ARCHIE",
-            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xb47bd6bf7913ce10fcca1cdc0cf9ca400d3dc5a6.png?1721250059393",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xb47bd6bf7913ce10fcca1cdc0cf9ca400d3dc5a6.jpg?1719759969875",
             "decimals": 9
         },
         
@@ -38,7 +46,7 @@
             "address": "0x8d65a2eaBDE4B31cbD7E43F27E47559d1CCec86c",
             "name": "Xeon Protocol",
             "symbol": "$XEON",
-            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x8d65a2eaBDE4B31cbD7E43F27E47559d1CCec86c.png?1721250059393",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x8d65a2eabde4b31cbd7e43f27e47559d1ccec86c.png?1719253759777",
             "decimals": 9
         },
         {
@@ -46,7 +54,7 @@
             "address": "0xd8c978de79e12728e38aa952a6cb4166f891790f",
             "name": "Roaring Kitty",
             "symbol": "$ROAR",
-            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xd8c978de79e12728e38aa952a6cb4166f891790f.png?1721250059393",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xd8c978de79e12728e38aa952a6cb4166f891790f.png",
             "decimals": 18
         },
         {
