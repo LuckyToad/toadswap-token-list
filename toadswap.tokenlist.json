@@ -18,6 +18,15 @@
         },
         {
             "chainId": 1,
+            "address": "0x146f3582ebe45c46b2f88fb71681fa582ba53a79",
+            "name": "Good Trouble",
+            "symbol": "GTRB",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x146f3582ebe45c46b2f88fb71681fa582ba53a79.png?1721406536354",
+            "decimals": 18
+        },
+        
+        {
+            "chainId": 1,
             "address": "0x69420bad4e6f844c023488ffd44433626602bd69",
             "name": "Girls Club",
             "symbol": "GIRLS",
