@@ -16,6 +16,22 @@
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
         },
+            {
+            "chainId": 1,
+            "address": "0xcdb3ffe54394ba9f40b8408c08f34d9e58685dd3",
+            "name": "XPLUS AI",
+            "symbol": "XPAI",
+            "logoURI": "https://xplusai.io/xpai-core/uploads/2024/05/logo-small3-90x90.gif",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x42069cc15f5befb510430d22ff1c9a1b3ae22cfe",
+            "name": "Rare Pepe",
+            "symbol": "RARE",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x42069cc15f5befb510430d22ff1c9a1b3ae22cfe.png?1721680952342",
+            "decimals": 18
+        },
         {
             "chainId": 1,
             "address": "0x146f3582ebe45c46b2f88fb71681fa582ba53a79",
