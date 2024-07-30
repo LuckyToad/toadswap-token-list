@@ -16,7 +16,23 @@
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
         },
-            {
+        {
+            "chainId": 1,
+            "address": "0xea4170a365952c666a9f34950771e51841732de9",
+            "name": "Filter AI",
+            "symbol": "FILTER",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0xea4170a365952c666a9f34950771e51841732de9.png?1721626025",
+            "decimals": 18
+        },    
+        {
+            "chainId": 1,
+            "address": "0x601e5168f4782b5a82f906f0fc78ccb41ea2b159",
+            "name": "Pecker",
+            "symbol": "PECKER",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x601e5168f4782b5a82f906f0fc78ccb41ea2b159.jpg?1721543692983",
+            "decimals": 9
+        },   
+        {
             "chainId": 1,
             "address": "0xcdb3ffe54394ba9f40b8408c08f34d9e58685dd3",
             "name": "XPLUS AI",
