@@ -18,6 +18,22 @@
         },
         {
             "chainId": 1,
+            "address": "0xd43fbA1f38d9B306AEEF9d78aD177d51Ef802B46",
+            "name": "Gondola",
+            "symbol": "GONDOLA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xd43fba1f38d9b306aeef9d78ad177d51ef802b46.png?1720106986484",
+            "decimals": 9
+        },  
+        {
+            "chainId": 1,
+            "address": "0x670737204304a1f02363104223538441bcea4936",
+            "name": "Poo Chi",
+            "symbol": "SIR",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x670737204304a1f02363104223538441bcea4936.png?1721592992646",
+            "decimals": 18
+        },   
+        {
+            "chainId": 1,
             "address": "0xea4170a365952c666a9f34950771e51841732de9",
             "name": "Filter AI",
             "symbol": "FILTER",
