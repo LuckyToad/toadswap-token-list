@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xd12a99dbc40036cec6f1b776dccd2d36f5953b94",
+            "name": "Draggy",
+            "symbol": "DRAGGY",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xd12a99dbc40036cec6f1b776dccd2d36f5953b94.jpg?1718765997247",
+            "decimals": 9
+        }, 
+        {
+            "chainId": 1,
             "address": "0xd43fbA1f38d9B306AEEF9d78aD177d51Ef802B46",
             "name": "Gondola",
             "symbol": "GONDOLA",
