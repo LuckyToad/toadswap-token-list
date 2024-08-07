@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x2be8e422cb4a5a7f217a8f1b0658952a79132f28",
+            "name": "Monkey Shit Inu",
+            "symbol": "MSI",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x2be8e422cb4a5a7f217a8f1b0658952a79132f28.jpeg?1720013888669",
+            "decimals": 18
+        }, 
+        {
+            "chainId": 1,
             "address": "0xd12a99dbc40036cec6f1b776dccd2d36f5953b94",
             "name": "Draggy",
             "symbol": "DRAGGY",
