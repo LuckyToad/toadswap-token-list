@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x9c979daa0e8823c6b3d2414d49bccb2866ef710f",
+            "name": "Olymp",
+            "symbol": "OLYMP",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x9c979daa0e8823c6b3d2414d49bccb2866ef710f.png?1721163544923",
+            "decimals": 18
+        }, 
+        {
+            "chainId": 1,
             "address": "0x1859ef5c77f2a27b8440d2d0083fe89d0f04a7fa",
             "name": "PETRODOLLAR",
             "symbol": "OIL",
