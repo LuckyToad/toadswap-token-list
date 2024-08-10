@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x046c4a4ad5a6dde4222ed693c9d9825c0f184939",
+            "name": "Free Ross",
+            "symbol": "$ROSS",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x046c4a4ad5a6dde4222ed693c9d9825c0f184939.png?1721992205112",
+            "decimals": 18
+        }, 
+        {
+            "chainId": 1,
             "address": "0x9c979daa0e8823c6b3d2414d49bccb2866ef710f",
             "name": "Olymp",
             "symbol": "OLYMP",
