@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x4b7C762Af92dBD917d159Eb282B85aa13E955739",
+            "name": "Poodl Inu",
+            "symbol": "POODL",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x4b7c762af92dbd917d159eb282b85aa13e955739.png?1713185483210",
+            "decimals": 18
+        }, 
+        {
+            "chainId": 1,
             "address": "0x046c4a4ad5a6dde4222ed693c9d9825c0f184939",
             "name": "Free Ross",
             "symbol": "$ROSS",
