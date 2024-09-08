@@ -16,7 +16,14 @@
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
         },
-        
+        {
+            "chainId": 1,
+            "address": "0x44048851c18e2ae10953164427300dc986b46815",
+            "name": "Molly by Matt Furie",
+            "symbol": "MOLLY",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x44048851c18e2ae10953164427300dc986b46815.jpg?1725355981665",
+            "decimals": 18
+        },
         {
             "chainId": 1,
             "address": "0xd0054b65b683dbdd324b51f5f1f16aadeb99a74b",
