@@ -15,7 +15,15 @@
             "symbol": "TOAD",
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
+        },{
+            "chainId": 1,
+            "address": "0x748509433eF209C4d11adA51347D5724A5da0CA5",
+            "name": "Andy",
+            "symbol": "ANDY",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x748509433ef209c4d11ada51347d5724a5da0ca5.png?1714014376556",
+            "decimals": 9
         },
+        
         {
             "chainId": 1,
             "address": "0x44048851c18e2ae10953164427300dc986b46815",
