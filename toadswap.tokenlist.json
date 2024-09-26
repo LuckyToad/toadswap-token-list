@@ -17,6 +17,13 @@
             "decimals": 9
         },{
             "chainId": 1,
+            "address": "0xc4058f6a829ddd684e1b7589b33312827f0a47bb",
+            "name": "aNDY",
+            "symbol": "aNDY",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xc4058f6a829ddd684e1b7589b33312827f0a47bb.png?1712951363734",
+            "decimals": 18
+        },{
+            "chainId": 1,
             "address": "0x748509433eF209C4d11adA51347D5724A5da0CA5",
             "name": "Andy",
             "symbol": "ANDY",
