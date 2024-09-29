@@ -16,6 +16,15 @@
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
         },
+        
+        {
+            "chainId": 1,
+            "address": "0x78965b1c638a7ff408d1697a96d7b8e47bb7c75f",
+            "name": "chainpal",
+            "symbol": "CPAL",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0x78965b1c638a7ff408d1697a96d7b8e47bb7c75f.jpg?1727284704",
+            "decimals": 18
+        },
         {
             "chainId": 1,
             "address": "0xcDf6b7657B8f26C396293417D713b7fc6b8304d9",
