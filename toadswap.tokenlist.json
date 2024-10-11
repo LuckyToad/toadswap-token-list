@@ -16,6 +16,14 @@
             "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
             "decimals": 9
         },
+         {
+            "chainId": 1,
+            "address": "0xd9641fc2826ecc9bebf4f3852fe4ed92a5239f02",
+            "name": "Aventa",
+            "symbol": "AVENTA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xd9641fc2826ecc9bebf4f3852fe4ed92a5239f02.png?1727992332308",
+            "decimals": 18
+        },
         {
             "chainId": 1,
             "address": "0x1776b223ff636d0d76adf2290821f176421dd889",
