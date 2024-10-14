@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x67d3b1716abD9b7daCbFF4c615E6A83b6A17C841",
+            "name": "BlackRock",
+            "symbol": "BLK",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x67d3b1716abd9b7dacbff4c615e6a83b6a17c841.png?1728665599248",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xebb66a88cedd12bfe3a289df6dfee377f2963f12",
             "name": "Oscar",
             "symbol": "OSCAR",
