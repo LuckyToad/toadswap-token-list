@@ -18,6 +18,22 @@
         },
         {
             "chainId": 1,
+            "address": "0xebb66a88cedd12bfe3a289df6dfee377f2963f12",
+            "name": "Oscar",
+            "symbol": "OSCAR",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xebb66a88cedd12bfe3a289df6dfee377f2963f12.jpg?1728419898863",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0x5972169d49654dda92af57d11d4362fa72c15b03",
+            "name": "Zegent AI",
+            "symbol": "ZGEN",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x5972169d49654dda92af57d11d4362fa72c15b03.png?1726919761682",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xd09eb9099fac55edcbf4965e0a866779ca365a0c",
             "name": "Colon",
             "symbol": "COLON",
