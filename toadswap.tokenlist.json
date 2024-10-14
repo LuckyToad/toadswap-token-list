@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xd09eb9099fac55edcbf4965e0a866779ca365a0c",
+            "name": "Colon",
+            "symbol": "COLON",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xd09eb9099fac55edcbf4965e0a866779ca365a0c.jpg?1723695600418",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0xf1ff59Fa458BEE12D6526dBd92290090bf670E29",
             "name": "Fluffy",
             "symbol": "fluffy",
