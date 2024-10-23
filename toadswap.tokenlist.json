@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x420110D74c4c3ea14043A09E81FAD53e1932F54c",
+            "name": "Groggo By Matt Furie",
+            "symbol": "GROGGO",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x420110d74c4c3ea14043a09e81fad53e1932f54c.png?1729016007407",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x67d3b1716abD9b7daCbFF4c615E6A83b6A17C841",
             "name": "BlackRock",
             "symbol": "BLK",
