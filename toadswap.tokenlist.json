@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x283344eea472f0fe04d6f722595a2fffefe1901a",
+            "name": "Code Token",
+            "symbol": "CODE",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x283344eea472f0fe04d6f722595a2fffefe1901a.jpg?1722577125585",
+            "decimals": 13
+        },
+        {
+            "chainId": 1,
             "address": "0x420110D74c4c3ea14043A09E81FAD53e1932F54c",
             "name": "Groggo By Matt Furie",
             "symbol": "GROGGO",
