@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xaade1d6701173bd924c9de2d56a00ef4e3d9de4d",
+            "name": "Blockchain Web Services",
+            "symbol": "BWS",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xaade1d6701173bd924c9de2d56a00ef4e3d9de4d.png?1732211997465",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0x283344eea472f0fe04d6f722595a2fffefe1901a",
             "name": "Code Token",
             "symbol": "CODE",
