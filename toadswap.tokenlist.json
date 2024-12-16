@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x23a5a5ad7ac5fb8cbc71185f90ac831365698d5d",
+            "name": "Caw Dogs",
+            "symbol": "DOGS",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x23a5a5ad7ac5fb8cbc71185f90ac831365698d5d.png?1732823538237",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xaade1d6701173bd924c9de2d56a00ef4e3d9de4d",
             "name": "Blockchain Web Services",
             "symbol": "BWS",
