@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xbf358f7023d6fd0d11ac284eb47b877c1af635aa",
+            "name": "ArcheriumAi",
+            "symbol": "ARCA",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xbf358f7023d6fd0d11ac284eb47b877c1af635aa.jpg?1735906229312",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x23a5a5ad7ac5fb8cbc71185f90ac831365698d5d",
             "name": "Caw Dogs",
             "symbol": "DOGS",
