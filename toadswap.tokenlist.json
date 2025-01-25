@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xa9A825693648f1C735f3b50b3aB531688ea3801B",
+            "name": "MINGLE AI",
+            "symbol": "MINGLE",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xa9a825693648f1c735f3b50b3ab531688ea3801b.jpg?1737195368317",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xbf358f7023d6fd0d11ac284eb47b877c1af635aa",
             "name": "ArcheriumAi",
             "symbol": "ARCA",
