@@ -18,6 +18,22 @@
         },
         {
             "chainId": 1,
+            "address": "0x64d3c2817a22b78cacabe4baa2525065ebdf4012",
+            "name": "RaidSharksBot",
+            "symbol": "SHARX",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x64d3c2817a22b78cacabe4baa2525065ebdf4012.png?1726005226836",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0xdb529c2a773ad4f65712f13a50941fa78eb2146a",
+            "name": "Dope Coin",
+            "symbol": "DOPE",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xdb529c2a773ad4f65712f13a50941fa78eb2146a.jpg?1734013510529",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0xa9A825693648f1C735f3b50b3aB531688ea3801B",
             "name": "MINGLE AI",
             "symbol": "MINGLE",
