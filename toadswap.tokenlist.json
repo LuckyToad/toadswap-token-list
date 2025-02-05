@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+            "name": "Cellframe Token",
+            "symbol": "CELL",
+            "logoURI": "https://etherscan.io/token/images/cerame_32.png",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x64d3c2817a22b78cacabe4baa2525065ebdf4012",
             "name": "RaidSharksBot",
             "symbol": "SHARX",
