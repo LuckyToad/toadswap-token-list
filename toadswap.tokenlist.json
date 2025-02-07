@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0xDc300854B0EF52650057158E8a33AFE703525539",
+            "name": "Bet More",
+            "symbol": "BMR",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xdc300854b0ef52650057158e8a33afe703525539.jpg?1736701970326",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
             "name": "Cellframe Token",
             "symbol": "CELL",
