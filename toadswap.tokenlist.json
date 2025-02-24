@@ -18,6 +18,15 @@
         },
         {
             "chainId": 1,
+            "address": "0x129e5915326ed86f831b0e035acda34b209633d5",
+            "name": "Pineapple",
+            "symbol": "PAPPLE",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x129e5915326ed86f831b0e035acda34b209633d5.jpg?1739987144706",
+            "decimals": 9
+        },
+        
+        {
+            "chainId": 1,
             "address": "0xDc300854B0EF52650057158E8a33AFE703525539",
             "name": "Bet More",
             "symbol": "BMR",
