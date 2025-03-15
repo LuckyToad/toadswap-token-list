@@ -49,11 +49,11 @@
     "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png"
   },
   {
-    "symbol": "TOAD",
-    "name": "TOADSwap",
-    "address": "0xbfb2b6870501a6ff17121d676a0a45a38c9eed1e",
+    "symbol": "ISWAP",
+    "name": "InfiniSwap",
+    "address": "0x1500000000f0a3B29851C92888aCEe1DcD8Fc692",
     "decimals": "9",
     "chainId": 1,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/28867/large/Coingecko_listing.png?1696527840"
+    "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x1500000000f0a3b29851c92888acee1dcd8fc692.jpg?1742065489657"
   }
 ]}
