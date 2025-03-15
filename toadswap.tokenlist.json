@@ -10,10 +10,10 @@
     "tokens": [
         {
             "chainId": 1,
-            "address": "0xbfb2b6870501a6ff17121d676a0a45a38c9eed1e",
-            "name": "Toad",
-            "symbol": "TOAD",
-            "logoURI": "https://www.toadswap.org/toadswap-symbol-listings-1250x1250.png",
+            "address": "0x1500000000f0a3b29851c92888acee1dcd8fc692",
+            "name": "InfiniSwap",
+            "symbol": "ISWAP",
+            "logoURI": "https://infiniswap.app/favicon.ico",
             "decimals": 9
         },
         {
