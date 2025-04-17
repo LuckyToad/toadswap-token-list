@@ -18,6 +18,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x292fcdd1b104de5a00250febba9bc6a5092a0076",
+            "name": "HashAI",
+            "symbol": "HashAI",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x292fcdd1b104de5a00250febba9bc6a5092a0076.jpg?1721757061161",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0xc4c2614e694cf534d407ee49f8e44d125e4681c4",
             "name": "Chain Games",
             "symbol": "CHAIN",
