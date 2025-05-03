@@ -8,6 +8,7 @@
     },
     "tags": {},
     "tokens": [
+        
         {
             "chainId": 1,
             "address": "0x1500000000f0a3b29851c92888acee1dcd8fc692",
@@ -15,6 +16,14 @@
             "symbol": "ISWAP",
             "logoURI": "https://infiniswap.app/favicon.ico",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "address": "0x32b053f2cba79f80ada5078cb6b305da92bde6e1",
+            "name": "NeuralAI",
+            "symbol": "NEURAL",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x32b053f2cba79f80ada5078cb6b305da92bde6e1.png?1733415782738",
+            "decimals": 18
         },
         {
             "chainId": 1,
