@@ -16,6 +16,14 @@
             "symbol": "ISWAP",
             "logoURI": "https://infiniswap.app/favicon.ico",
             "decimals": 9
+        },        
+        {
+            "chainId": 1,
+            "address": "0x94a21565c923d2f75b3fcef158960a8b7e6ed07d",
+            "name": "MerchMinter",
+            "symbol": "MRCHR",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x94a21565c923d2f75b3fcef158960a8b7e6ed07d.jpg?1748666501295",
+            "decimals": 18
         },
         {
             "chainId": 1,
