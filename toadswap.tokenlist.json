@@ -19,6 +19,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x767A98A4F0Ac1D1c09E93e97C752f357B8F86976",
+            "name": "WeblumeAI",
+            "symbol": "WLAI",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x767a98a4f0ac1d1c09e93e97c752f357b8f86976.jpg?1750192205151",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
             "address": "0x80122c6a83c8202ea365233363d3f4837d13e888",
             "name": "Messier",
             "symbol": "M87",
