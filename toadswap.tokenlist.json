@@ -19,6 +19,14 @@
         },
         {
             "chainId": 1,
+            "address": "0x2a5a4994997aee570202eb4ccdbb806bbc63fc7e",
+            "name": "Obscurium",
+            "symbol": "OBSC",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x2a5a4994997aee570202eb4ccdbb806bbc63fc7e.jpg?1750739891029",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
             "address": "0x767A98A4F0Ac1D1c09E93e97C752f357B8F86976",
             "name": "WeblumeAI",
             "symbol": "WLAI",
