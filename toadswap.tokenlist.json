@@ -16,6 +16,14 @@
             "symbol": "ISWAP",
             "logoURI": "https://infiniswap.app/favicon.ico",
             "decimals": 9
+        }, 
+        {
+            "chainId": 1,
+            "address": "0xd4f4d0a10bcae123bb6655e8fe93a30d01eebd04",
+            "name": "LinqAI",
+            "symbol": "LNQ",
+            "logoURI": "https://www.dextools.io/resources/tokens/logos/3/ether/0xd4f4d0a10bcae123bb6655e8fe93a30d01eebd04.png?1709368877",
+            "decimals": 18
         },
         {
             "chainId": 1,
